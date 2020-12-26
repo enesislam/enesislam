@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**enesislam/enesislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -10,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML, CSS, Django, Books, Internet Series, Phone Hardwares, 
 - 📫 How to reach me: 
 - ⚡ Fun fact: I know Django and I'm learning Django 😄
--->
-https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none
+
+<img src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none">
