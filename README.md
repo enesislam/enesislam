@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - ⚡ Fun fact: I know Django and I'm learning Django 😄
 
-<a href="https://github.com/enesislam"><img height="30%;" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none"></a>
+<a href="https://github.com/enesislam"><img height="20%;" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none"></a>
 <h1>I'm working be a Web Developer</h1>
 <h2>I Believe "Talk is Cheap, Show me the Code" 👽</h2>
