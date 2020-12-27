@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on awesome a platform that like as famous social media applications
 - 🌱 I’m currently learning Python, Seriuosly Django Web Freamwork, Native English
 - 💬 Ask me about HTML, CSS, Django, Books, Internet Series 😄, Phone, Computer Hardwares, 
-- 📫 How to reach me:<a href="https://wa.me/+9005539391218?text=Hi%2C%20Enes!"><img  height="17px;" src="https://image.flaticon.com/icons/png/128/1384/1384079.png"> Whatsapp</a>
+- 📫 How to reach me:  <a href="https://wa.me/+9005539391218?text=Hi%2C%20Enes!"><img  height="17px;" src="https://image.flaticon.com/icons/png/128/1384/1384079.png"> Whatsapp</a>
 
 - ⚡ Fun fact: I know Django and I'm learning Django 😄
 
