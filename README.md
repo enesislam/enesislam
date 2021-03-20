@@ -6,8 +6,8 @@
 <img height="17px;" src="https://img.icons8.com/ios-filled/2x/python-file.png">
  <img  height="22px;" src="https://img.icons8.com/material-rounded/2x/django.png">
   <a href= "https://invite.duolingo.com/BDHTZTB5CWWKT4EDZCLTESACDI">Try Duolingo for Learn new languages</a><hr>
-- 💬 Ask me about HTML, CSS,Python, Django, Books, Birds, Internet Series 😄, Phone, Computer Hardwares, 
-- 📫 How to reach me:  <a href="https://wa.me/+9005539391218?text=Hi%2C%20Enes!">
+- 💬 Ask me about HTML, CSS,Python, Django, Books, Birds, Internet Series 😄, Phone, Computer Hardwares, <br>
+- <a href="https://wa.me/+9005539391218?text=Hi%2C%20Enes!">📫 How to reach me</a>
 
 <h1>I'm living my web development adventure :)</h1>
 
