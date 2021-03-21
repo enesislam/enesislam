@@ -9,5 +9,5 @@
 - 💬 Ask me about HTML, CSS,Python, Django, Books, Birds, Internet Series 😄, Phone, Computer Hardwares, <br>
 - <a href="https://wa.me/+9005539391218?text=Hi%2C%20Enes!">📫 How to reach me</a>
 
-<h1>I'm living my web development adventure :)</h1>
+<h1>I'm living my web adventure :)</h1>
 
