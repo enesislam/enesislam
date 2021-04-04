@@ -6,6 +6,6 @@
   
 - 💬 Ask me about HTML, CSS,Python, Django, Books, Birds, Internet Series 😄, Phone, Computer Hardwares, <br>
 - <a href="https://wa.me/+9005539391218?text=Hi%2C%20Enes!">📫 How to reach me</a>
-- I am learning <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">React.js
+- I am learning REST Framewoek
 <h1>I'm living in my web adventure :)</h1>
 
