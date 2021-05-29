@@ -7,5 +7,5 @@
 - <a href="https://wa.me/+9005539391218?text=Hi%2C%20Enes!">📫 How can reach me</a>
 - I am learning DRF
 
--<a style="text-decoration:none;" href= "https://invite.duolingo.com/BDHTZTB5CWWKT4EDZCLTESACDI">Try Duolingo for Learn new languages</a>
+-<a style="text-decoration:none;" href= "https://invite.duolingo.com/BDHTZTB5CWWKT4EDZCLTESACDI">Try Duolingo to learn new languages</a>
   
